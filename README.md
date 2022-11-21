@@ -2,7 +2,7 @@
 
 Hi, this is my code files related to deep learning study in SZU.
 
-I mostly use MNIST dataset and Fashion-MNIST dataset to setup, train, and evaluate my model.
+I mostly use MNIST dataset and Fashion-MNIST dataset to setup, train, and evaluate my model, and I use PyTorch with my Laptop-RTX-2060GPU
 
 These notebooks may offer help for freshmen in deep learning, for all code are logically written and you can know the model thing with running each code chunk.
 
