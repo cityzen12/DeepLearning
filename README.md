@@ -10,5 +10,6 @@ I also update all the data you need to train.
 
 Feel free to git and plz let me know the bugs when using it and send issues.
 
+Contact: zhuzihao2019@email.szu.edu.cn
 
 ! Some code are written by my lecturer, many thanks.
